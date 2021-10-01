@@ -56,7 +56,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Barn House</div>
+        <div class="w3-display-topleft w3-black w3-padding">Bar</div>
         <img src="/w3images/house4.jpg" alt="House" style="width:100%">
       </div>
     </div>
