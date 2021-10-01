@@ -12,8 +12,8 @@
         state: present
     - name: Start the container
       docker_container:
-        name: kruapp
-        image: "krushang007/kruapp:1.0"
+        name: krusapss
+        image: "krushang007/krusapss:0.2"
         state: started
         published_ports:
           - 0.0.0.0:8080:8080
