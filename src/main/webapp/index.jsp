@@ -12,7 +12,7 @@
     <a href="#home" class="w3-bar-item w3-button"><b>BRST</b> Architects</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
-      <a href="#projects" class="w3-bar-item w3-button">Projectss</a>
+      <a href="#projects" class="w3-bar-item w3-button">Projects</a>
       <a href="#about" class="w3-bar-item w3-button">Abouts</a>
       <a href="#contact" class="w3-bar-item w3-button">Contact</a>
     </div>
