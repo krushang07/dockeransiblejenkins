@@ -13,8 +13,8 @@
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
       <a href="#projects" class="w3-bar-item w3-button">Projects</a>
-      <a href="#about" class="w3-bar-item w3-button">Abouts</a>
-      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+      <a href="#about" class="w3-bar-item w3-button">Abouts your self</a>
+      <a href="#contact" class="w3-bar-item w3-button">Contact me</a>
     </div>
   </div>
 </div>
